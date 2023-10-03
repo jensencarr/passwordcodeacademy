@@ -8,7 +8,7 @@
             string uppercase = "QWERTYUIOPÅÄÖLKJHGFDSAZXCVBNM";
             string lowercase = "qwertyuiopåäölkjhgfdsazxcvbnm";
             string digits = "1234567890";
-            string specialChars = "!#¤%&/()=?`^*_:;,.-'¨´+}][{€$£@§½";
+            string specialChars = "!#¤%&/()=?`^*_:;,.-'¨´+}][{€$£@§½!%(=/";
 
             int score = 0;
 
